@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/crististan/order-summary-card](https://github.com/crististan/order-summary-card)
-- Live Site URL: [cristi-stan.ro/order-summary-card](https://cristi-stan.ro/order-summary-card/)
+- Live Site URL: [https://order-summary-card-0a7d99.netlify.app/](https://order-summary-card-0a7d99.netlify.app/)
 
 ## My process
 
