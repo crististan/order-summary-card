@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://cristi-stan.ro/order-summary-card/)
+- Solution URL: [https://github.com/crististan/order-summary-card](https://github.com/crististan/order-summary-card)
+- Live Site URL: [cristi-stan.ro/order-summary-card](https://cristi-stan.ro/order-summary-card/)
 
 ## My process
 
